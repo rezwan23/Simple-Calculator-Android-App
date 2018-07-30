@@ -1,3 +1,3 @@
 # Simple Claculator Android App
-![Simple Claculator](https://github.com/rezwan23/Simple-Calculator-Android-App/blob/master/asset/preview.png)
+![Simple Claculator](https://github.com/rezwan23/Simple-Calculator-Android-App/blob/master/asset/preview.png)<br>
 A simple Calculator
